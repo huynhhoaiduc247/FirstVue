@@ -3,7 +3,7 @@ import './assets/main.css'
 import { createApp } from 'vue'
 import App from './App.vue'
 import router from './router'
-import PortalVue from 'portal-vue'
+import PortalVue from 'portal-vue/dist/index.d.ts'
 import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap/dist/js/bootstrap.min.js"
 import "bootstrap-icons/font/bootstrap-icons.min.css"
