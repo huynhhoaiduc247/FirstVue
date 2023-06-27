@@ -16,7 +16,7 @@
     "@volar/vue-language-service": "^1.6.3",
     "bootstrap": "^5.3.0-alpha3",
     "bootstrap-icons": "^1.10.5",
-    "portal-vue": "^3.0.0-beta.0",
+    "portal-vue": "^3.0.0",
     "vue": "^3.3.2",
     "vue-router": "^4.2.0"
   },
