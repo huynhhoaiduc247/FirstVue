@@ -120,6 +120,7 @@ export default {
             alert(`getUserMedia() error: ${e.name}`);
         });
         console.log(this.peerConnection)
+        
     },
 
     gotRemoteStream(e: RTCTrackEvent){
