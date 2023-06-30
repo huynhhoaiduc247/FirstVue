@@ -1,3 +1,3 @@
-VITE_NODE_ENV=production
-VITE_BASE_URL=/Vuejs/
+NODE_ENV=production
+BASE_URL=/Vuejs/
 VITE_APP_TITLE=production
